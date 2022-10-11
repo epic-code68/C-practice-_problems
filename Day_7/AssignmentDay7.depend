@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663402244 source:c:\kruthi\assignmentday7\day7op.c
+
+1663484968 source:c:\kruthi\assignmentday7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"Day7.h"
+
+1663402244 c:\kruthi\assignmentday7\day7.h
+

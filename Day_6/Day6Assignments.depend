@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1663401095 source:c:\kruthi\day6assignments\day6op.c
+	"Day6.h"
+
+1663400757 c:\kruthi\day6assignments\day6.h
+
+1663401972 source:c:\kruthi\day6assignments\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Day6.h"
+

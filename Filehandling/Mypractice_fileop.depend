@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1663324147 source:c:\kruthi\mypractice_fileop\main.c
+	"Fileop.h"
+	<string.h>
+	<stdio.h>
+
+1663324147 c:\kruthi\mypractice_fileop\fileop.h
+	<string.h>
+	<stdio.h>
+
+1663324777 source:c:\kruthi\mypractice_fileop\fileop.c
+	"Fileop.h"
+
+1664797300 source:c:\kruthi\filehandling\main.c
+	"Fileop.h"
+	<string.h>
+	<stdio.h>
+
+1664797273 c:\kruthi\filehandling\fileop.h
+	<string.h>
+	<stdio.h>
+
+1664797431 source:c:\kruthi\filehandling\fileop.c
+	"Fileop.h"
+

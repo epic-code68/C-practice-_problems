@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663390979 source:c:\kruthi\day1_assignment\main.c
+	"Day1.h"
+	<assert.h>
+
+1663386473 c:\kruthi\day1_assignment\day1.h
+	<stdio.h>
+	<math.h>
+
+1663390935 source:c:\kruthi\day1_assignment\day1op.c
+	"Day1.h"
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1663399778 source:c:\kruthi\day4assignments\day4assignments\arrayop.c
+	<string.h>
+	<stdlib.h>
+
+1663399637 c:\kruthi\day4assignments\day4assignments\day4.h
+
+1663400135 source:c:\kruthi\day4assignments\day4assignments\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"Day4.h"
+
+1663399778 source:c:\kruthi\day4assignments\arrayop.c
+	<string.h>
+	<stdlib.h>
+
+1663400135 source:c:\kruthi\day4assignments\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"Day4.h"
+
+1663399637 c:\kruthi\day4assignments\day4.h
+
+1663399778 source:c:\kruthi\day4-5assignments\arrayop.c
+	<string.h>
+	<stdlib.h>
+
+1664783016 source:c:\kruthi\day4-5assignments\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"Day4.h"
+
+1663399637 c:\kruthi\day4-5assignments\day4.h
+
